@@ -1,0 +1,70 @@
+body {
+    font-family: cinzel,serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.header-grid-container {
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://images.unsplash.com/photo-1506668853927-740b51733a32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80);
+    box-shadow: inset 0 0 0 1000px rgba(240, 164, 50, 0.75);
+}
+
+.header-grid {
+    background-color: rgba(12, 10, 62, 0.25);
+    padding: 20px;
+}
+
+.logo-row {
+    font-family: 'Shantell Sans', cursive;
+    margin: 24px;
+    font-size: 48px;
+    color: white;
+}
+
+.hours-row {
+
+}
+
+.white-header {
+    color: white;
+
+}
+
+.white-subheader {
+    color: white;
+
+}
+
+.white-text {
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 12px;
+
+}
+
+.menu {
+
+}
+
+.orange-header {
+    color: #F0A432;
+}
+
+.black-date {
+    font-size: 12px;
+}
+
+.black-header {
+
+}
+
+.black-description {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 12px;
+}
+
+.spotify-playlist {
+
+}
