@@ -17,7 +17,7 @@ body {
 }
 
 .logo-row {
-    /* font-family: 'Shantell Sans', serif; */
+    font-family: 'Shantell Sans', serif;
     margin: 24px;
     font-size: 48px;
     color: white;
@@ -63,7 +63,7 @@ body {
 
 .black-description {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .spotify-playlist {
